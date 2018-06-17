@@ -3,5 +3,5 @@ h1 {
 }
 .personal-information{
   float: left;
-  border: 1px
+  border: 1px solid black;
 }
