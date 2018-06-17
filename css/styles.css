@@ -1,3 +1,7 @@
 h1 {
   text-align: center;
 }
+.personal-information{
+  float: left;
+  border: 1px
+}
