@@ -5,9 +5,7 @@
 h1 {
   text-align: center;
 }
-body{
 
-}
 ol, ul{
   margin: 20px;
 }
@@ -29,3 +27,4 @@ ol, ul{
   border:1px solid black;
   margin:6px;
 }
+body {background-color:lightblue;}
