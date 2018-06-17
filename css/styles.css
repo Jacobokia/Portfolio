@@ -1,11 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 h1 {
   text-align: center;
+}
+body{
+
+}
+ol, ul{
+  margin: 20px;
+}
+
+
+.body-wrapper{
+  width: 100%;
+  overflow: auto;
 }
 .personal-information{
   float: left;
   border: 1px solid black;
+  width: 35%;
 }
 .additional-information{
+  width: 60%;
   float:right;
   border:1px solid black;
 }
