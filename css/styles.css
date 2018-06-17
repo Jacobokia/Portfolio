@@ -21,6 +21,7 @@ ol, ul{
   float: left;
   border: 1px solid black;
   width: 35%;
+  margin: 25px;
 }
 .additional-information{
   width: 60%;
